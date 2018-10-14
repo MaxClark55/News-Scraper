@@ -1,0 +1,15 @@
+body {
+    background-image: url("/public/assets/images/World.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron{
+	background-color: transparent;
+}
+
+.navbar{
+    font-family: 'Raleway', sans-serif;
+}
